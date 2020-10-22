@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="420eed57-0be7-4b1b-b222-31c9bd1f3ad3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jB7N9B0jzbV0VCaa5BN5y4bvFI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Ruby Sword" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="420eed57-0be7-4b1b-b222-31c9bd1f3ad3" name="Default Changelist" comment="" />
+      <created>1603265589301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603265589301</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1150" y="403" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603266881545">
+      <screen x="0" y="23" width="2560" height="1341" />
+    </state>
+    <state x="1150" y="403" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1341@0.23.2560.1341" timestamp="1603266881545" />
+    <state width="1649" height="278" key="GridCell.Tab.0.bottom" timestamp="1603269220816">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1649" height="278" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1603269220816" />
+    <state width="1649" height="278" key="GridCell.Tab.0.center" timestamp="1603269220814">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1649" height="278" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1603269220814" />
+    <state width="1649" height="278" key="GridCell.Tab.0.left" timestamp="1603269220813">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1649" height="278" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1603269220813" />
+    <state width="1649" height="278" key="GridCell.Tab.0.right" timestamp="1603269220815">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1649" height="278" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1603269220815" />
+    <state x="1177" y="443" width="670" height="676" key="search.everywhere.popup" timestamp="1603266170731">
+      <screen x="0" y="23" width="2560" height="1341" />
+    </state>
+    <state x="1177" y="443" width="670" height="676" key="search.everywhere.popup/0.23.2560.1341@0.23.2560.1341" timestamp="1603266170731" />
+  </component>
+</project>
